@@ -4,8 +4,8 @@ package gosnowflake
 
 import (
 	"bytes"
-	"database/sql"
-	"database/sql/driver"
+	"github.com/relloyd/go-sql/database/sql"
+	"github.com/relloyd/go-sql/database/sql/driver"
 	"fmt"
 )
 

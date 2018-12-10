@@ -4,7 +4,7 @@ Package gosnowflake is a pure Go Snowflake driver for the database/sql package.
 Clients can use the database/sql package directly. For example:
 
 	import (
-		"database/sql"
+		"github.com/relloyd/go-sql/database/sql"
 
 		_ "github.com/snowflakedb/gosnowflake"
 	)

@@ -4,8 +4,8 @@ package gosnowflake
 
 import (
 	"context"
-	"database/sql"
-	"database/sql/driver"
+	"github.com/relloyd/go-sql/database/sql"
+	"github.com/relloyd/go-sql/database/sql/driver"
 	"encoding/json"
 	"net/url"
 	"strconv"

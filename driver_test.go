@@ -6,7 +6,7 @@ import (
 	"bytes"
 	"context"
 	"crypto/rsa"
-	"database/sql"
+	"github.com/relloyd/go-sql/database/sql"
 	"flag"
 	"fmt"
 	"net/url"

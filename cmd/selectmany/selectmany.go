@@ -3,7 +3,7 @@ package main
 
 import (
 	"context"
-	"database/sql"
+	"github.com/relloyd/go-sql/database/sql"
 	"flag"
 	"fmt"
 	"log"

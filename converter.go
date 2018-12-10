@@ -3,7 +3,7 @@
 package gosnowflake
 
 import (
-	"database/sql/driver"
+	"github.com/relloyd/go-sql/database/sql/driver"
 	"encoding/hex"
 	"fmt"
 	"reflect"

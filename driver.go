@@ -3,8 +3,8 @@
 package gosnowflake
 
 import (
-	"database/sql"
-	"database/sql/driver"
+	"github.com/relloyd/go-sql/database/sql"
+	"github.com/relloyd/go-sql/database/sql/driver"
 	"net/http"
 	"strings"
 )

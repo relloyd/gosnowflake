@@ -4,7 +4,7 @@ package gosnowflake
 
 import (
 	"context"
-	"database/sql/driver"
+	"github.com/relloyd/go-sql/database/sql/driver"
 )
 
 type snowflakeTx struct {

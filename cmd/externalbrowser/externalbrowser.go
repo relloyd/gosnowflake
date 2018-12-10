@@ -1,7 +1,7 @@
 package main
 
 import (
-	"database/sql"
+	"github.com/relloyd/go-sql/database/sql"
 	"flag"
 	"fmt"
 	"log"

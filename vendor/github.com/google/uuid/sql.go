@@ -5,7 +5,7 @@
 package uuid
 
 import (
-	"database/sql/driver"
+	"github.com/relloyd/go-sql/database/sql/driver"
 	"fmt"
 )
 

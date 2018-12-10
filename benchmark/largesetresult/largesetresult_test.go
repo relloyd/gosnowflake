@@ -9,7 +9,7 @@ import (
 	"os"
 	"testing"
 
-	"database/sql"
+	"github.com/relloyd/go-sql/database/sql"
 
 	"context"
 	"os/signal"

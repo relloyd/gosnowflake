@@ -13,7 +13,7 @@ import (
 	"crypto/rand"
 	"crypto/rsa"
 	"crypto/x509"
-	"database/sql"
+	"github.com/relloyd/go-sql/database/sql"
 	"encoding/base64"
 	"fmt"
 	"io/ioutil"
